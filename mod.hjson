@@ -1,0 +1,7 @@
+name:"maps-pack",
+displayName:"Maps Pack",
+author:"pixecoz",
+description:"Upload your maps:\nDiscord pixecoz#3275",
+version:1.0,
+minGameVersion:126,
+hidden:true
